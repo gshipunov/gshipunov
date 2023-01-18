@@ -6,7 +6,7 @@ Grigory Shipunov
 - On interwebs I usually go by oxapentane.
 - If you want to grab me AFK, maximum probability of doing so is in North Holland.
 - I'm fluent in Russian and English.
-- I'm more then quarter of a century old.
+- I'm more than quarter of a century old.
 - As you might have noticed, I like bulleted lists[^0].
 
 [^0]: And footnotes!
