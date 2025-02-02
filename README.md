@@ -1,6 +1,6 @@
-# Hello, my name is:
+# PSA: Most of the new contributions are on [codeberg](https://codeberg.org/0xa)
 
-Grigory Shipunov
+## Grigory Shipunov
 
 - People call me Grisha.
 - On interwebs I usually go by oxapentane.
